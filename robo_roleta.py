@@ -22,4 +22,4 @@ if __name__ == "__main__":
         resultado = girar_roleta()
         print(f"Resultado: {resultado}")
         print(analisar_tendencia())
-        time.sleep(2)  # Pausa de 2 segundos entre cada rodada
+        time.sleep(2)  # Pausa de 2 segundos entre cada rodada 
